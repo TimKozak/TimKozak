@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TimKozak
+- 👋 Hi, I’m Tim
 - 👀 I’m interested in web-development
 - 🌱 I’m currently learning Python and React
 - 💞️ I’m looking to collaborate on e-store project
