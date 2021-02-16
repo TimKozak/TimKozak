@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tim
-- 👀 I’m interested in web-development
+- 👀 I’m interested in web-development and data analysis
 - 🌱 I’m currently learning Python and React
 - 💞️ I’m looking to collaborate on e-store project
 - 📫 https://www.linkedin.com/in/tim-kozak-1653881b8/
