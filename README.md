@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Tim
-- 👀 I’m interested in web-development and data analysis
+- 💻 I'm studying IT&BA at Ukrainian Catholic University
+- 👀 I’m interested in start-ups and web-development
 - 🌱 I’m currently learning React.js
 - 📫 https://www.linkedin.com/in/timakozak/
 
