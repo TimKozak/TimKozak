@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tim
 - 👀 I’m interested in web-development and data analysis
-- 🌱 I’m currently learning Python and React
-- 📫 https://www.linkedin.com/in/tim-kozak-1653881b8/
+- 🌱 I’m currently learning React.js
+- 📫 https://www.linkedin.com/in/timakozak/
 
 <!---
 TimKozak/TimKozak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
