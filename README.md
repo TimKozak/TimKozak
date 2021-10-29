@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Tim
 - 💻 I'm studying IT&BA at Ukrainian Catholic University
-- 👀 I’m interested in start-ups and web-development
-- 🌱 I’m currently learning React.js
-- 📫 https://www.linkedin.com/in/timakozak/
+- 👀 I’m interested in web development and start-ups
+- 🔥 I’m currently learning React.js and Node.js
+- 
 
-<!---
-TimKozak/TimKozak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimKozak&layout=compact)](https://github.com/TimKozak/github-readme-stats)
+
