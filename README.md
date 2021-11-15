@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tim
-- 💻 I'm studying IT&BA at Ukrainian Catholic University
-- 👀 I’m a front-end developer
+- 💻 I’m a front-end developer
+- 👀 I'm studying IT&BA at Ukrainian Catholic University
 - 🔥 I’m currently developing skills in React.js and Node.js
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimKozak&layout=compact&theme=nord)](https://github.com/TimKozak/github-readme-stats)
