@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tim
-- 💻 I’m a front-end developer
+- 💻 I’m a software developer
 - 👀 I'm studying IT&BA at Ukrainian Catholic University
 - 🔥 I’m currently developing skills in React.js and Node.js
 
